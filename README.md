@@ -11,8 +11,8 @@
    - [如何远程登录含有多个容器的Pod](https://github.com/songjiayang/k8s.cookbook#如何远程登录含有多个容器的Pod)
  - Helm
    - [忽略证书验证](https://github.com/songjiayang/k8s.cookbook#忽略证书验证)
-   - [指定 namespace](https://github.com/songjiayang/k8s.cookbook#指定namespace)
-   - [更改配置模版 values](https://github.com/songjiayang/k8s.cookbook#更改配置模版values)
+   - [指定 namespace](https://github.com/songjiayang/k8s.cookbook#指定-namespace)
+   - [更改配置模版 values](https://github.com/songjiayang/k8s.cookbook#更改配置模版-values)
 
 ## Docker
 
